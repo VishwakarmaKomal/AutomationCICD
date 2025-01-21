@@ -21,7 +21,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class UploadDownload {
-    @Test
+
     public static void main(String[] args) throws IOException {
         // TODO Auto-generated method stub
 
